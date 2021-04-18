@@ -61,7 +61,6 @@ const Image = styled(motion.img)`
   max-width: 250px;
   max-height: 250px;
 `;
-
 const ColumnRight = styled.div`
 display: flex;
 justify-content: center;
